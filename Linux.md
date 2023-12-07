@@ -4,7 +4,7 @@
    
 Sample Answer:
 
-# Commonly Used System Monitoring Commands
+### Commonly Used System Monitoring Commands
 
 1. **top:**
    - *Description:* `top` provides a real-time, dynamic view of the system's resource usage. It displays information about CPU usage, memory usage, running processes, and more.
