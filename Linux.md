@@ -42,3 +42,11 @@ tail -n 10 your_file.txt
 
 tail -n 10 -f your_file.txt
 
+3. ## Modifying User Permissions on a File in Unix
+
+In Unix, you can modify user permissions on a file using the `chmod` command. The `chmod` command allows you to change the permissions of a file or directory. The basic syntax is as follows:
+
+```bash
+chmod permissions filename
+
+
