@@ -1,0 +1,33 @@
+What is the difference between an incident and a problem
+
+Definition:
+An incident is an unplanned interruption or reduction in the quality of an IT service. It may involve issues such as a service outage, performance degradation, or any other service-related problem that impacts users.
+Characteristics:
+Incidents are typically events that disrupt normal service operations.
+They are often unexpected and can happen at any time.
+Incidents are usually isolated events affecting a specific user, group, or service.
+Management:
+The primary goal is to restore normal service operations as quickly as possible.
+Incident management focuses on minimizing the impact of the incident on the business and restoring service functionality.
+Examples:
+System crashes, application errors, network connectivity issues, hardware failures, etc.
+Problem:
+Definition:
+A problem is the underlying cause of one or more incidents. It is an unknown root cause that, when identified and addressed, can prevent the recurrence of incidents.
+Characteristics:
+Problems are the result of deeper issues within the IT infrastructure.
+They are identified through the analysis of incidents and recurring patterns.
+Problem management aims to identify and resolve the root cause to prevent future incidents.
+Management:
+The primary goal is to identify and address the root cause to prevent recurring incidents.
+Problem management focuses on proactive analysis and long-term solutions.
+Examples:
+Software bugs, misconfigurations, hardware faults, capacity issues, etc.
+Relationship:
+Incident to Problem:
+Incidents are often symptoms of underlying problems.
+When an incident occurs, it is managed through the incident management process.
+If the incident is recurring or has an unknown root cause, it may be escalated to problem management for further investigation.
+Problem to Incident:
+Problems are often identified through the analysis of incidents.
+Once the root cause is determined and a solution is implemented, it can prevent future incidents.
