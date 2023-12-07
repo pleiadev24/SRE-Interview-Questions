@@ -44,7 +44,7 @@ Sample Answer:
 
 
 
-2. In Unix or Linux, you can use the `tail` command to print the last N lines of a file. The `tail` command is specifically designed for this purpose. Here's an example:
+#### 2. In Unix or Linux, you can use the `tail` command to print the last N lines of a file. The `tail` command is specifically designed for this purpose. Here's an example:
 The -f option stands for "follow," and it will keep the file open, printing new lines as they are added. Press Ctrl+C to stop the continuous monitoring.
 ```bash
 tail -n 10 your_file.txt
