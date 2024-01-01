@@ -22,4 +22,15 @@ SLI: Measures a specific service aspect.
 SLO: Sets a target or goal for an SLI.
 SLA: Formal agreement with SLOs and consequences.
 
-2. 
+
+What is DORA Process in DHCP?
+he DHCP follows a DORA process to assign IP addresses to the network devices. This process is based on a client-server model and involves an exchange of 4 types of messages:
+
+Discover
+Offer
+Request
+Acknowledgement
+
+What are Kubernetes Pods ?
+
+A Kubernetes pod is a collection of one or more Linux containers, and is the smallest unit of a Kubernetes application.
