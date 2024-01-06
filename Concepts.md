@@ -34,3 +34,13 @@ Acknowledgement
 What are Kubernetes Pods ?
 
 A Kubernetes pod is a collection of one or more Linux containers, and is the smallest unit of a Kubernetes application.
+
+what is the command to change ownership of a file?
+what is mounting in linux?
+When you enter an address www.google.com on your browser what happens?
+what is a load balancer?
+What are the types of load balancers?
+What is high availablility ?
+What is the difference between a hard link and a soft link in linux?
+How do you install a software on linux?
+
